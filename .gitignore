@@ -1,1 +1,4 @@
-VectorStore/*
+VectorStore*
+.ipynb_checkpoints/*
+.vscode/launch.json
+VectorStore2/chroma.sqlite3

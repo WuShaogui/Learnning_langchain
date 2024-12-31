@@ -1,8 +1,17 @@
 记录学习langchain的过程
 
-langchain的4个核心特点：
+本脚本分为以下部分：
+1. langchain基础：
+2. langchain进阶：
+3. 使用langchain构建RAG项目：
 
-1. [如何让模型返回结构化的数据](./如何让模型返回结构化的数据.ipynb)
-2. [如何让模型调用工具](./如何让模型调用工具.ipynb)
-3. [如何让模型流式返回](./如何让模型流式返回.ipynb)
-4. 
+## langchain基础
+
+
+## langchain进阶
+
+
+## 使用langchain构建RAG项目
+
+
+
